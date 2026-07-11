@@ -18,7 +18,9 @@ This project presents an interactive Power BI dashboard developed using the Blin
 
 ## Dashboard Preview
 
-(Add the dashboard screenshot here.)
+![Dashboard](https://github.com/Sejal-pate-1/Blinkit-Sales-Analytics/blob/main/Dashboard-Page1.png?raw=true)
+
+
 
 ## Files
 - Blinkit Dashboard.pbix
